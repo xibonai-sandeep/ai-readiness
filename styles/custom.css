@@ -12,6 +12,7 @@ body {
 .stSidebar {
     background-color: #6a0dad;
     color: white;
+    display: none;
 }
 .stTabs {
     position: sticky;
