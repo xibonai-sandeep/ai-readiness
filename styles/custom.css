@@ -1,12 +1,12 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f0e6ff;
+    background-color: #d1b8ff;
     color: white;
 
 }
 
 .stApp {
-    background-color: #f0e6ff;
+    background-color: #d1b8ff;
 }
 
 .stSidebar {
@@ -17,13 +17,13 @@ body {
     position: sticky;
     top: 80px;
     z-index: 998;
-    background-color: #f0e6ff;
+    background-color: #d1b8ff;
     padding: 0.5rem 0;
 }
 .stApp>header {
     position: sticky;
     top: 0;
-    background-color: #f0e6ff;
+    background-color: #d1b8ff;
     z-index: 999;
     padding: 1rem 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
