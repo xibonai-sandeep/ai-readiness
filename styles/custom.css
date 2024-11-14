@@ -1,0 +1,60 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0e6ff;
+    color: white;
+
+}
+
+.stApp {
+    background-color: #f0e6ff;
+}
+
+.stSidebar {
+    background-color: #6a0dad;
+    color: white;
+}
+.stTabs {
+    position: sticky;
+    top: 80px;
+    z-index: 998;
+    background-color: #f0e6ff;
+    padding: 0.5rem 0;
+}
+.stApp>header {
+    position: sticky;
+    top: 0;
+    background-color: #f0e6ff;
+    z-index: 999;
+    padding: 1rem 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.stSidebar .stRadio>label {
+    color: white !important;
+}
+
+.stSidebar .stRadio>div {
+    color: #f0e6ff !important;
+}
+
+h1,
+h2,
+h3 {
+    color: #4b0082;
+}
+
+.stButton>button {
+    background-color: #6a0dad;
+    color: white;
+}
+
+.stButton>button:hover {
+    background-color: #8e44ad;
+}
+
+.xibonai-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #4b0082;
+    text-align: center;
+    margin-bottom: 20px;
+}
