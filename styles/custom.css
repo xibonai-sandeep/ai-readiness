@@ -1,40 +1,40 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: white;
-    color: black;
+    background-color: #c2acf7;
+    color: white;
 
 }
 
 .stApp {
-    background-color: white;
+    background-color: #c2acf7;
 }
 
 .stSidebar {
     background-color: #6a0dad;
-    color: black;
+    color: white;
     display: none;
 }
 .stTabs {
     position: sticky;
     top: 80px;
     z-index: 998;
-    background-color: white;
+    background-color: #c2acf7;
     padding: 0.5rem 0;
 }
 .stApp>header {
     position: sticky;
     top: 0;
-    background-color: white;
+    background-color: #c2acf7;
     z-index: 999;
     padding: 1rem 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 .stSidebar .stRadio>label {
-    color: black !important;
+    color: white !important;
 }
 
 .stSidebar .stRadio>div {
-    color: black !important;
+    color: #f0e6ff !important;
 }
 
 h1,
@@ -58,7 +58,4 @@ h3 {
     color: #4b0082;
     text-align: center;
     margin-bottom: 20px;
-}
-.st-emotion-cache-ysk9xe p{
-    color: black;
 }
