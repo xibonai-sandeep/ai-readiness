@@ -1,7 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
     background-color: white;
-    color: white;
+    color: black;
 
 }
 
@@ -11,7 +11,7 @@ body {
 
 .stSidebar {
     background-color: #6a0dad;
-    color: white;
+    color: black;
     display: none;
 }
 .stTabs {
@@ -30,11 +30,11 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 .stSidebar .stRadio>label {
-    color: white !important;
+    color: black !important;
 }
 
 .stSidebar .stRadio>div {
-    color: #f0e6ff !important;
+    color: black !important;
 }
 
 h1,
@@ -45,7 +45,7 @@ h3 {
 
 .stButton>button {
     background-color: #6a0dad;
-    color: white;
+    color: black;
 }
 
 .stButton>button:hover {
