@@ -70,12 +70,3 @@ def app():
             st.success("Assessment completed. Please proceed to the Results page.")
         else:
             st.warning("Please answer all questions before submitting.")
-
-    # # Add a debug section
-    # if st.checkbox("Show Debug Information"):
-    #     st.write("Session State:")
-    #     st.write(st.session_state)
-    #     st.write("Questions:")
-    #     st.write(st.session_state.questions)
-    #     st.write("Answers:")
-    #     st.write(st.session_state.answers)
